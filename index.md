@@ -1,5 +1,3 @@
----
-layout: default
----
+theme: minima
 
 # hello world!
