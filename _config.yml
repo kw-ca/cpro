@@ -1,1 +1,7 @@
-theme: minima
+theme: jekyll-theme-minimal
+title: kw_c's homepage
+description: study!
+
+# Content
+content:
+    atcoder: https://atcoder.jp/contests
